@@ -1,0 +1,204 @@
+clean_date,carrier,flightnumber,airport_name,airport_city_name,airport_IATA,aircraft_name,aircraft_IATA,departure_time,arrival_time,elapsed_time,codeshare_info
+2024-05-31,UA,512,George Bush Intcntl Houston,Houston,IAH,Boeing 737MAX 9 Passenger,7M9,00:30,06:26:00,236,NZ 9190 /VA 8082
+2024-05-31,UA,189,Ninoy Aquino International,Manila,MNL,Boeing 777-300ER,77W,00:45,05:55:00,850,
+2024-05-31,UA,1139,Chicago Ohare International,Chicago,ORD,Boeing 737-900 Passenger,739,01:10,07:30:00,260,AC 3088 /NZ 9308
+2024-05-31,UA,274,George Bush Intcntl Houston,Houston,IAH,Boeing 737MAX 9 Passenger,7M9,05:00,11:03:00,243,NZ 9198 /VA 8084
+2024-05-31,UA,1003,Denver International,Denver,DEN,Boeing 757-300 Passenger,753,05:00,08:37:00,157,AC 4046 /NZ 9057 /VA 8335
+2024-05-31,UA,561,Chicago Ohare International,Chicago,ORD,Boeing 737MAX 9 Passenger,7M9,05:18,11:38:00,260,AC 4374 /NZ 9300 /VA 8104
+2024-05-31,UA,1260,Los Angeles International,Los Angeles,LAX,Boeing 737-800 Passenger,738,06:00,07:45:00,105,AV 2011 /NZ 9260 /VA 8546
+2024-05-31,UA,2297,Denver International,Denver,DEN,Boeing 777,777,06:30,10:17:00,167,AC 5438 /NZ 9052 /VA 8336
+2024-05-31,UA,2635,Chicago Ohare International,Chicago,ORD,A321neo,32Q,06:45,13:15:00,270,AC 5366 /NZ 9309 /VA 8097
+2024-05-31,UA,419,Newark Liberty International,New York,EWR,Boeing 777,777,07:00,15:30:00,330,LH 7887 /NZ 9106 /OS 7990 /SK 6879 /SN 8942 /TP 8493 /VA 8195
+2024-05-31,UA,2368,George Bush Intcntl Houston,Houston,IAH,Boeing 737-900 Passenger,739,07:10,13:13:00,243,NZ 9192 /VA 8076
+2024-05-31,UA,2237,Los Angeles International,Los Angeles,LAX,Boeing 737-800 Passenger,738,07:30,09:15:00,105,AV 2159 /NZ 9265 /VA 8053
+2024-05-31,UA,1322,Washington Dulles International,Dulles,IAD,Boeing 777,777,08:15,16:20:00,305,LH 7531 /NZ 9160 /OS 7884 /SN 8949 /VA 8378
+2024-05-31,UA,246,Portland International,Portland,PDX,Airbus A320,320,08:25,10:12:00,107,AC 3333 /NZ 9341 /OZ 6322 /VA 8452
+2024-05-31,UA,382,Phoenix Sky Harbor International,Phoenix,PHX,Boeing 737MAX 9 Passenger,7M9,08:25,10:26:00,121,AC 5296 /NZ 9372 /VA 8413
+2024-05-31,UA,2664,Baltimore Washington International,Baltimore,BWI,Boeing 737MAX 8 Passenger,7M8,08:25,16:42:00,317,NZ 9031 /VA 8257
+2024-05-31,UA,1986,Seattle Tacoma International,Seattle,SEA,Boeing 737-800 Passenger,738,08:25,10:40:00,135,NZ 9405 /OZ 6306 /VA 8281
+2024-05-31,UA,2145,Chicago Ohare International,Chicago,ORD,Boeing 777,777,08:25,14:45:00,260,AC 4060 /LH 7785 /NZ 9306 /OS 7718 /SK 6725 /SN 8820 /VA 8098
+2024-05-31,UA,1997,Orlando International,Orlando,MCO,Boeing 737MAX 9 Passenger,7M9,08:30,17:07:00,337,AD 7938 /CM 2881 /NZ 9290 /VA 8363
+2024-05-31,UA,1763,Pittsburgh Airport,Pittsburgh,PIT,Boeing 737MAX 8 Passenger,7M8,08:33,16:30:00,297,NZ 9391
+2024-05-31,UA,2374,Los Angeles International,Los Angeles,LAX,Boeing 737-800 Passenger,738,08:35,10:22:00,107,AV 2039 /NZ 9250 /VA 8050
+2024-05-31,UA,2001,Newark Liberty International,New York,EWR,Boeing 787-9,789,08:35,17:18:00,343,NZ 9100 /SK 8805 /TP 8495 /VA 8149
+2024-05-31,UA,5683,Sacramento International,Sacramento,SMF,Embraer 175 (Enhanced Winglets),E7W,08:35,09:37:00,62,AC 4360 /AV 2066 /NZ 9695 /VA 8261
+2024-05-31,UA,1954,Ronald Reagan Washington National,Washington,DCA,Boeing 737MAX 8 Passenger,7M8,08:37,17:00:00,323,NZ 2771 /VA 8440
+2024-05-31,UA,5394,Reno Tahoe International,Reno,RNO,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,08:40,09:57:00,77,AC 4414 /NZ 9597
+2024-05-31,UA,1212,Licenciado Gustavo Diaz Ordaz International,Puerto Vallarta,PVR,Airbus A320,320,08:40,13:27:00,227,AC 5310
+2024-05-31,UA,1189,Los Cabos International,San Jose Cabo,SJD,Boeing 737-800 Passenger,738,08:43,11:58:00,195,AC 5318
+2024-05-31,UA,784,Vancouver International Airport,Vancouver,YVR,Boeing 737MAX 9 Passenger,7M9,08:43,11:04:00,141,AC 5113 /NZ 9871
+2024-05-31,UA,1041,San Diego International Airport,San Diego,SAN,Boeing 737-800 Passenger,738,08:44,10:28:00,104,AC 5040 /NZ 9644 /VA 8429
+2024-05-31,UA,1679,Cancun International Airport,Cancun,CUN,Boeing 737MAX 9 Passenger,7M9,08:45,16:12:00,327,
+2024-05-31,UA,1273,Kahului,Kahului,OGG,Boeing 777,777,08:50,11:12:00,322,AC 3533
+2024-05-31,UA,1403,Denver International,Denver,DEN,Boeing 737-900 Passenger,739,08:50,12:38:00,168,AC 4047 /NZ 9058 /VA 8342
+2024-05-31,UA,1721,Kona,Kailua-Kona,KOA,Boeing 757-300 Passenger,753,08:55,11:25:00,330,AC 3529
+2024-05-31,UA,1107,Austin-Bergstrom International Airport,Austin,AUS,Airbus A319,319,08:55,14:40:00,225,AC 5289 /NZ 9119 /VA 8467
+2024-05-31,UA,5872,Salt Lake City International,Salt Lake City,SLC,Embraer 175 (Enhanced Winglets),E7W,08:55,12:00:00,125,AC 4162 /NZ 9629 /VA 8443
+2024-05-31,UA,1150,Lihue,Kauai Island,LIH,Boeing 737MAX 8 Passenger,7M8,09:00,11:42:00,342,AV 2350 /LH 9322
+2024-05-31,UA,2492,Raleigh–Durham Airport,Raleigh/Durham,RDU,Boeing 737-800 Passenger,738,09:05,17:22:00,317,NZ 9569 /VA 8482
+2024-05-31,UA,2647,General Edward Lawrence Logan International,Boston,BOS,Boeing 737MAX 9 Passenger,7M9,09:05,17:59:00,354,NZ 9011 /VA 8229
+2024-05-31,UA,5662,Fresno Yosemite International,Fresno,FAT,Embraer 175 (Enhanced Winglets),E7W,09:10,10:23:00,73,AC 4336 /CM 2439 /NZ 9219
+2024-05-31,UA,299,George Bush Intcntl Houston,Houston,IAH,Boeing 737-900 Passenger,739,09:10,15:13:00,243,NZ 9193 /VA 8077
+2024-05-31,UA,1175,Honolulu International Airport,Honolulu,HNL,Boeing 777-300ER,77W,09:20,11:45:00,325,AC 3515 /CA 7311 /NZ 9141
+2024-05-31,UA,488,Harry Reid International Airport,Las Vegas,LAS,Boeing 737-800 Passenger,738,09:24,11:11:00,107,AC 5044 /NZ 9224 /OZ 6340 /VA 8117
+2024-05-31,UA,893,Incheon Intl,Seoul,ICN,Boeing 787-9,789,10:35,15:00:00,745,OZ 6615
+2024-05-31,UA,888,Beijing Capital International Airport,Beijing,PEK,Boeing 777-300ER,77W,10:35,15:25:00,830,CA 7206
+2024-05-31,UA,470,Mahlon Sweet Fld,Eugene,EUG,Boeing 737-800 Passenger,738,10:35,12:11:00,96,NZ 9189
+2024-05-31,UA,2161,Redmond,Redmond,RDM,Airbus A319,319,10:35,12:18:00,103,
+2024-05-31,UA,2248,John Wayne Arpt Orange Co,Santa Ana,SNA,Boeing 737-800 Passenger,738,10:35,12:15:00,100,AC 4518 /NZ 9699 /VA 8491
+2024-05-31,UA,336,San Diego International Airport,San Diego,SAN,Boeing 737MAX 8 Passenger,7M8,10:35,12:19:00,104,AC 5056 /NZ 9584 /VA 8432
+2024-05-31,UA,4708,Arcata,Arcata,ACV,Embraer 175 (Enhanced Winglets),E7W,10:37,12:02:00,85,NZ 9364
+2024-05-31,UA,1998,Chicago Ohare International,Chicago,ORD,A321neo,32Q,10:38,17:10:00,272,AC 4065 /EK 6374 /NZ 9301 /SK 8800 /VA 8099
+2024-05-31,UA,821,Mexico City International Airport,Mexico City,MEX,Airbus A319,319,13:13,18:45:00,272,AC 5402 /NH 7368 /NZ 9823
+2024-05-31,UA,1962,Los Angeles International,Los Angeles,LAX,Boeing 737-800 Passenger,738,13:15,15:00:00,105,CA 7322 /NH 7263 /NZ 9259 /VA 8049
+2024-05-31,UA,1149,Newark Liberty International,New York,EWR,Boeing 757-200 Passenger,752,13:15,22:06:00,351,NH 7338 /NZ 9112 /VA 8153
+2024-05-31,UA,5440,John Wayne Arpt Orange Co,Santa Ana,SNA,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,13:20,15:06:00,106,AC 5458 /NH 7366 /NZ 9719 /VA 8492
+2024-05-31,UA,115,Faa\\'a International,Papeete,PPT,Boeing 787-9,789,13:25,18:55:00,510,
+2024-05-31,UA,2443,Burbank Glendale Pasadena,Burbank,BUR,Boeing 737-800 Passenger,738,13:26,14:50:00,84,AC 4173
+2024-05-31,UA,1336,Salt Lake City International,Salt Lake City,SLC,Boeing 737MAX 8 Passenger,7M8,13:30,16:28:00,118,AC 4168 /NH 7302 /NZ 9627 /VA 8445
+2024-05-31,UA,869,Hong Kong International Airport,Hong Kong,HKG,Boeing 777-300ER,77W,13:35,18:45:00,850,
+2024-05-31,UA,1503,Boise Air Terminal,Boise,BOI,Airbus A320,320,13:40,16:23:00,103,AC 3996 /NH 7334 /NZ 9397
+2024-05-31,UA,5653,Sacramento International,Sacramento,SMF,Embraer 175 (Enhanced Winglets),E7W,13:40,14:41:00,61,AC 4532 /NH 7388 /NZ 9697 /VA 8191
+2024-05-31,UA,194,Munich Airport,Munich,MUC,Boeing 777,777,13:40,09:45:00,665,AC 5600 /LH 7996
+2024-05-31,UA,1596,Honolulu International Airport,Honolulu,HNL,Boeing 777,777,13:45,16:13:00,328,AC 3507 /NZ 9144 /TK 8888
+2024-05-31,UA,58,Frankfurt Airport,Frankfurt,FRA,Boeing 777-300ER,77W,13:55,09:45:00,650,AC 4057 /LH 9403 /NZ 9800
+2024-05-31,UA,742,George Bush Intcntl Houston,Houston,IAH,Boeing 737MAX 9 Passenger,7M9,13:55,19:58:00,243,NH 7336 /NZ 9196 /VA 8083
+2024-05-31,UA,204,Vancouver International Airport,Vancouver,YVR,Boeing 737-800 Passenger,738,14:03,16:23:00,140,AC 5115 /NH 7394 /NZ 9875
+2024-05-31,UA,44,Zurich Airport,Zurich,ZRH,Boeing 777,777,14:20,10:20:00,660,AC 4064 /LX 3209
+2024-05-31,UA,447,Denver International,Denver,DEN,Boeing 737-800 Passenger,738,14:23,18:14:00,171,AC 5070 /NH 7320 /NZ 9050 /VA 8339
+2024-05-31,UA,871,Taoyuan International Airport,Taipei,TPE,Boeing 777-300ER,77W,14:30,18:45:00,795,
+2024-05-31,UA,574,Newark Liberty International,New York,EWR,Boeing 777,777,14:40,23:18:00,338,NZ 9107 /VA 8194
+2024-05-31,UA,2386,Chicago Ohare International,Chicago,ORD,Boeing 737-900 Passenger,739,14:40,21:04:00,264,AC 5196 /NZ 9302
+2024-05-31,UA,990,Charles De Gaulle,Paris,CDG,Boeing 777,777,14:40,10:25:00,645,AC 4045 /LH 8665 /LX 3025 /SN 9010
+2024-05-31,UA,968,Schiphol,Amsterdam,AMS,Boeing 777,777,14:55,10:20:00,625,AC 3723 /LH 8730
+2024-05-31,UA,354,General Edward Lawrence Logan International,Boston,BOS,Boeing 737MAX 9 Passenger,7M9,15:07,23:50:00,343,NH 7330 /NZ 9010 /VA 8305
+2024-05-31,UA,566,Denver International,Denver,DEN,Boeing 737-800 Passenger,738,15:45,19:36:00,171,AC 5669 /AV 2354 /NZ 9061 /VA 8340
+2024-05-31,UA,948,Heathrow,London,LHR,Boeing 777,777,16:00,10:25:00,625,AC 3769 /LH 8573 /LX 3123 /OS 7912 /SN 9103
+2024-05-31,UA,5496,Aspen Pitkin County Sardy Field,Aspen,ASE,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,16:10,19:37:00,147,NZ 9369
+2024-05-31,UA,2077,Phoenix Sky Harbor International,Phoenix,PHX,Boeing 737MAX 8 Passenger,7M8,16:10,18:19:00,129,AC 4368 /EK 6376 /LH 9350 /NH 7306 /NZ 9371 /VA 8411
+2024-05-31,UA,5629,Arcata,Arcata,ACV,Embraer 175 (Enhanced Winglets),E7W,16:20,17:39:00,79,EK 6490 /NZ 9339
+2024-05-31,UA,737,Newark Liberty International,New York,EWR,Boeing 757-200 Passenger,752,16:20,00:55:00,335,NZ 9105 /VA 8158
+2024-05-31,UA,1413,Los Angeles International,Los Angeles,LAX,Boeing 737-800 Passenger,738,16:25,18:10:00,105,CA 7318 /CM 1070 /EK 6367 /NH 7354 /NZ 9252 /VA 8190
+2024-05-31,UA,2603,Seattle Tacoma International,Seattle,SEA,Airbus A319,319,16:25,18:41:00,136,AV 2036 /EK 6385 /NH 7285 /NZ 9406 /OZ 6310 /VA 8282
+2024-05-31,UA,507,Fiumicino,Rome,FCO,Boeing 777,777,16:30,13:20:00,710,LH 9361
+2024-05-31,UA,1057,San Diego International Airport,San Diego,SAN,Boeing 737MAX 9 Passenger,7M9,16:30,18:14:00,104,AC 4192 /EK 6380 /LH 9202 /NH 7316 /NZ 9599 /VA 8231
+2024-05-31,UA,2305,Albuquerque International Sunport,Albuquerque,ABQ,Airbus A320,320,16:30,20:03:00,153,AC 4030 /NH 7328 /NZ 9099
+2024-05-31,UA,2334,Reno Tahoe International,Reno,RNO,Airbus A319,319,16:33,17:41:00,68,AC 4146 /AV 2024 /EK 6379 /LH 7740 /NH 7380 /NZ 9596
+2024-05-31,UA,1749,Kahului,Kahului,OGG,Boeing 737MAX 9 Passenger,7M9,16:35,19:08:00,333,AC 3534 /EK 6370 /LH 9204
+2024-05-31,UA,2626,Washington Dulles International,Dulles,IAD,Boeing 737MAX 9 Passenger,7M9,16:35,00:54:00,319,NZ 9163 /VA 8382
+2024-05-31,UA,375,Chicago Ohare International,Chicago,ORD,A321neo,32Q,16:47,23:13:00,266,AC 5332 /EK 6373 /NZ 9310 /VA 8100
+2024-05-31,UA,1896,Harry Reid International Airport,Las Vegas,LAS,Boeing 737-900 Passenger,739,16:50,18:37:00,107,AC 3721 /EK 6366 /LH 7990 /NH 7308 /NZ 9220 /VA 8562
+2024-05-31,UA,2611,Portland International,Portland,PDX,Boeing 737-800 Passenger,738,16:50,18:41:00,111,AC 3336 /AV 2056 /EK 6375 /LH 7690 /NH 7324 /NZ 9342 /TK 9589 /VA 8454
+2024-05-31,UA,5700,Redmond,Redmond,RDM,Embraer 175 (Enhanced Winglets),E7W,16:55,18:45:00,110,EK 6378
+2024-05-31,UA,5688,Tucson International,Tucson,TUS,Embraer 175 (Enhanced Winglets),E7W,16:55,19:19:00,144,AC 4432 /EK 6388 /LH 9398 /NH 7008 /NZ 9747
+2024-05-31,UA,1878,Jackson Hole,Jackson,JAC,Airbus A319,319,16:55,20:08:00,133,NZ 9487
+2024-05-31,UA,1509,Honolulu International Airport,Honolulu,HNL,Boeing 757-300 Passenger,753,17:00,19:35:00,335,AC 3514 /AV 2255 /EK 6363 /LH 7726 /NZ 9142
+2024-05-31,UA,1723,Kona,Kailua-Kona,KOA,Boeing 737MAX 9 Passenger,7M9,17:20,19:49:00,329,AC 3528 /AV 2356 /LH 8594
+2024-05-31,UA,672,El Prat Airport,Barcelona,BCN,Boeing 777,777,17:30,14:00:00,690,LH 8857
+2024-05-31,UA,5941,John Wayne Arpt Orange Co,Santa Ana,SNA,Embraer 175 (Enhanced Winglets),E7W,17:30,19:18:00,108,AC 4332 /EK 6387 /LH 9264 /VA 8493
+2024-05-31,UA,1501,Portland International,Portland,PDX,Airbus A319,319,18:19,20:10:00,111,AC 3334 /LH 8784 /NZ 9345 /OZ 6320 /VA 8453
+2024-05-31,UA,5644,Boise Air Terminal,Boise,BOI,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,18:25,21:12:00,107,AC 3994 /EK 6358 /NZ 9399
+2024-05-31,UA,5590,Salt Lake City International,Salt Lake City,SLC,Canadair (Bombardier) Regional Jet,CRJ,18:25,21:28:00,123,AC 3697 /AV 2358 /LH 8578 /NZ 9628 /OZ 6522 /VA 8442
+2024-05-31,UA,514,George Bush Intcntl Houston,Houston,IAH,Boeing 737-900 Passenger,739,18:30,00:29:00,239,EK 6365 /NH 6492 /NZ 9199 /OZ 9521 /VA 8080
+2024-05-31,UA,1082,Los Angeles International,Los Angeles,LAX,Boeing 737MAX 9 Passenger,7M9,18:30,20:15:00,105,AV 2163 /CA 7323 /CM 1454 /NH 7356 /NZ 9255 /OZ 6347 /VA 8048
+2024-05-31,UA,1152,Chicago Ohare International,Chicago,ORD,A321neo,32Q,18:30,00:50:00,260,AC 5166 /NZ 9304 /OZ 6303 /VA 8106
+2024-05-31,UA,571,Burbank Glendale Pasadena,Burbank,BUR,Boeing 737-800 Passenger,738,18:40,20:04:00,84,AC 4396 /AV 2352 /EK 6359
+2024-05-31,UA,460,Vancouver International Airport,Vancouver,YVR,Boeing 737MAX 9 Passenger,7M9,18:41,20:59:00,138,AC 5109 /AV 2360 /EK 6685 /NZ 9874
+2024-05-31,UA,2047,Austin-Bergstrom International Airport,Austin,AUS,Airbus A320,320,18:45,00:30:00,225,AC 4795 /NZ 9117 /OZ 6403 /VA 8468
+2024-05-31,UA,589,Denver International,Denver,DEN,Boeing 737-800 Passenger,738,18:45,22:26:00,161,AC 3842 /EK 6360 /NZ 9055 /OZ 6350 /VA 8343
+2024-05-31,UA,2228,Palm Springs International,Palm Springs,PSP,Boeing 737-800 Passenger,738,18:50,20:28:00,98,AC 4335 /EK 6377 /LH 9352 /NZ 9549
+2024-05-31,UA,1342,Dallas Fort Worth International,Dallas,DFW,Boeing 737-800 Passenger,738,18:52,00:31:00,219,AC 5117 /NH 7372 /NZ 9083 /OZ 6313 /VA 8274
+2024-05-31,UA,372,Kansas City International Airport,Kansas City,MCI,Boeing 737MAX 9 Passenger,7M9,18:55,00:35:00,220,EK 6529 /NZ 9505 /OZ 6317
+2024-05-31,UA,1684,Lihue,Kauai Island,LIH,Boeing 737MAX 8 Passenger,7M8,18:58,21:39:00,341,LH 9326
+2024-05-31,UA,1288,San Antonio International,San Antonio,SAT,Boeing 737-800 Passenger,738,18:59,00:30:00,211,AC 4347 /EK 6381 /NZ 2373
+2024-05-31,UA,1187,Phoenix Sky Harbor International,Phoenix,PHX,Boeing 737MAX 8 Passenger,7M8,19:00,21:08:00,128,AC 4465 /LH 9366 /LX 3270 /NZ 9370 /VA 8412
+2024-05-31,UA,5651,Fresno Yosemite International,Fresno,FAT,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,19:00,20:12:00,72,AC 3849 /AV 2034 /CM 1450 /EK 6362 /LH 8883 /NZ 9217
+2024-05-31,UA,2481,Ted Stevens Anchorage International,Anchorage,ANC,Boeing 737MAX 8 Passenger,7M8,19:00,22:52:00,292,LH 7658 /NZ 2831
+2024-05-31,UA,5356,Redding Muni,Redding,RDD,Embraer 175 (Enhanced Winglets),E7W,19:10,20:22:00,72,
+2024-05-31,UA,1632,John Wayne Arpt Orange Co,Santa Ana,SNA,Airbus A319,319,19:10,20:49:00,99,AC 4186 /NZ 9717 /VA 8237
+2024-05-31,UA,926,Frankfurt Airport,Frankfurt,FRA,Boeing 777-300ER,77W,19:20,15:15:00,655,AC 5032 /LH 9407 /NZ 9802
+2024-05-31,UA,638,Honolulu International Airport,Honolulu,HNL,Boeing 757-300 Passenger,753,19:20,21:55:00,335,AC 3516 /LH 8800 /LX 3238 /NZ 9143
+2024-05-31,UA,930,Heathrow,London,LHR,Boeing 777-300ER,77W,19:45,14:10:00,625,AC 5376 /LH 9379 /LX 3049 /NZ 9854 /OS 7858 /SN 9100
+2024-05-31,UA,2191,Denver International,Denver,DEN,Boeing 737-800 Passenger,738,20:18,23:59:00,161,AC 5615 /NZ 9053 /VA 8341
+2024-05-31,UA,2423,Ontario International Airport,Ontario,ONT,Airbus A319,319,20:55,22:27:00,92,AC 4122
+2024-05-31,UA,2117,Washington Dulles International,Dulles,IAD,Boeing 737MAX 9 Passenger,7M9,21:04,05:23:00,319,NZ 9161 /OZ 6315 /VA 8381
+2024-05-31,UA,749,Newark Liberty International,New York,EWR,Boeing 757-200 Passenger,752,21:30,06:05:00,335,NZ 9113 /OZ 9523 /VA 8157
+2024-05-31,UA,1007,San Diego International Airport,San Diego,SAN,Boeing 737MAX 9 Passenger,7M9,22:15,23:59:00,104,AC 5608 /LH 9222 /OZ 6307 /VA 8428
+2024-05-31,UA,1494,Chicago Ohare International,Chicago,ORD,A321neo,32Q,22:35,04:55:00,260,AC 5432 /NZ 9303 /VA 8105
+2024-05-31,UA,1971,Seattle Tacoma International,Seattle,SEA,Airbus A320,320,22:35,00:46:00,131,NH 7304 /NZ 9401 /OZ 6302 /VA 8287
+2024-05-31,UA,649,Newark Liberty International,New York,EWR,Boeing 777,777,22:35,07:03:00,328,NZ 9102 /VA 8193
+2024-05-31,UA,1485,Los Angeles International,Los Angeles,LAX,Boeing 737-900 Passenger,739,22:35,00:18:00,103,CM 1071 /LH 7498 /NZ 9254 /VA 8051
+2024-05-31,UA,1849,Washington Dulles International,Dulles,IAD,Boeing 737MAX 9 Passenger,7M9,22:35,06:54:00,319,ET 1359 /NZ 9168 /VA 8384
+2024-05-31,UA,1761,Cleveland Hopkins International,Cleveland,CLE,Boeing 737-900 Passenger,739,22:35,06:26:00,291,NZ 9041 /OZ 9525 /VA 8487
+2024-05-31,UA,1603,Nashville International,Nashville,BNA,Boeing 737MAX 8 Passenger,7M8,22:35,05:10:00,275,NZ 9139 /VA 8255
+2024-05-31,UA,5670,Monterey Peninsula,Monterey,MRY,Embraer 175 (Enhanced Winglets),E7W,22:41,23:44:00,63,AC 4268 /LH 8582 /NZ 2829
+2024-05-31,UA,5446,San Luis County Regional Airport,San Luis Obispo,SBP,Embraer 175 (Enhanced Winglets),E7W,22:43,23:59:00,76,AV 2103 /LH 9388
+2024-05-31,UA,1204,Pittsburgh Airport,Pittsburgh,PIT,Boeing 737-800 Passenger,738,22:45,06:42:00,297,NZ 9390
+2024-05-31,UA,1126,Port Columbus International,Columbus,CMH,Airbus A320,320,22:45,06:35:00,290,
+2024-05-31,UA,412,Mexico City International Airport,Mexico City,MEX,Airbus A319,319,22:45,04:05:00,260,AC 5025
+2024-05-31,UA,556,Fort Lauderdale Hollywood International,Fort Lauderdale,FLL,Boeing 737MAX 8 Passenger,7M8,22:48,07:31:00,343,AD 7937 /NZ 9447 /VA 8479
+2024-05-31,UA,564,Orlando International,Orlando,MCO,Boeing 757-300 Passenger,753,22:50,07:17:00,327,AD 7939 /CM 2882 /NZ 9292 /VA 8364
+2024-05-31,UA,519,Santa Barbara Muni,Santa Barbara,SBA,Boeing 737-800 Passenger,738,22:55,00:14:00,79,AC 4366 /LH 8888 /NZ 9618
+2024-05-31,UA,2615,Tampa International,Tampa,TPA,Boeing 737MAX 8 Passenger,7M8,22:55,07:22:00,327,NZ 2223 /VA 8259
+2024-05-31,UA,1,Singapore Changi Airport,Singapore,SIN,Boeing 787-9,789,22:55,06:15:00,980,
+2024-05-31,UA,863,Kingsford Smith International Airport,Sydney,SYD,Boeing 777-300ER,77W,23:00,07:00:00,900,LH 9327 /NZ 9863 /VA 8005
+2024-05-31,UA,1132,Pearson International,Toronto,YYZ,Boeing 737MAX 8 Passenger,7M8,23:01,07:00:00,299,AC 4067
+2024-05-31,UA,1637,Miami International,Miami,MIA,Boeing 737MAX 8 Passenger,7M8,23:05,07:53:00,348,CM 2876 /NZ 2925 /VA 8393
+2024-05-31,UA,2142,Mahlon Sweet Fld,Eugene,EUG,Boeing 737MAX 9 Passenger,7M9,23:07,00:46:00,99,LH 9396 /NZ 9188 /OZ 6324
+2024-05-31,UA,1995,Harry Reid International Airport,Las Vegas,LAS,Boeing 737-900 Passenger,739,23:12,00:59:00,107,AC 4059 /LH 9212 /NZ 9225 /VA 8118
+2024-05-31,UA,448,Rogue Valley Intl Medford,Medford,MFR,Boeing 737-800 Passenger,738,23:13,00:45:00,92,NZ 9527
+2024-05-31,UA,2313,Reno Tahoe International,Reno,RNO,Boeing 737-800 Passenger,738,23:18,00:30:00,72,AC 4370 /LH 8908 /NZ 9595 /OZ 6345
+2024-05-31,UA,2416,Raleigh–Durham Airport,Raleigh/Durham,RDU,Boeing 737-900 Passenger,739,23:20,07:40:00,320,NZ 9567 /VA 8236
+2024-05-31,UA,433,Rogue Valley Intl Medford,Medford,MFR,Boeing 737-800 Passenger,738,10:40,12:07:00,87,NZ 9529
+2024-05-31,UA,1271,Mexico City International Airport,Mexico City,MEX,Airbus A320,320,10:43,16:15:00,272,AC 3479 /NZ 9821
+2024-05-31,UA,5595,Southwest Oregon Regional Airport,North Bend,OTH,Embraer 175 (Enhanced Winglets),E7W,10:45,12:33:00,108,
+2024-05-31,UA,5342,San Luis County Regional Airport,San Luis Obispo,SBP,Embraer 175 (Enhanced Winglets),E7W,10:45,12:03:00,78,
+2024-05-31,UA,4727,Palm Springs International,Palm Springs,PSP,Canadair (Bombardier) Regional Jet 700 and Challenger 870,CR7,10:45,12:35:00,110,AC 4126 /NZ 9545
+2024-05-31,UA,1702,Burbank Glendale Pasadena,Burbank,BUR,Airbus A319,319,10:45,12:14:00,89,AC 4388
+2024-05-31,UA,5619,Redding Muni,Redding,RDD,Canadair (Bombardier) Regional Jet,CRJ,10:50,12:02:00,72,
+2024-05-31,UA,2051,Vancouver International Airport,Vancouver,YVR,Boeing 737MAX 9 Passenger,7M9,10:51,13:12:00,141,AC 4254 /NH 6495 /NZ 9872
+2024-05-31,UA,277,Hartsfield–Jackson Atlanta International Airport,Atlanta,ATL,Boeing 737MAX 8 Passenger,7M8,10:52,18:49:00,297,NZ 9001 /VA 8400
+2024-05-31,UA,2367,Santa Barbara Muni,Santa Barbara,SBA,Airbus A320,320,10:53,12:14:00,81,AC 4058 /NZ 9619
+2024-05-31,UA,875,Tokyo International Airport,Tokyo,HND,Boeing 777,777,10:55,13:55:00,660,NH 7011
+2024-05-31,UA,1363,Newark Liberty International,New York,EWR,Boeing 757-200 Passenger,752,10:55,19:55:00,360,LX 3171 /NZ 9103 /SN 8912 /TP 8491 /VA 8151
+2024-05-31,UA,205,Calgary International,Calgary,YYC,Airbus A319,319,10:58,14:39:00,161,AC 4025 /NZ 9882
+2024-05-31,UA,611,Harry Reid International Airport,Las Vegas,LAS,Boeing 737-800 Passenger,738,10:58,12:45:00,107,AC 5340 /NZ 9221 /VA 8121
+2024-05-31,UA,2458,George Bush Intcntl Houston,Houston,IAH,Boeing 737MAX 9 Passenger,7M9,10:58,17:01:00,243,EK 6364 /NZ 9197 /VA 8078
+2024-05-31,UA,1897,Los Angeles International,Los Angeles,LAX,Boeing 737MAX 8 Passenger,7M8,11:00,12:45:00,105,AV 2157 /CA 7319 /NZ 9268 /VA 8052
+2024-05-31,UA,222,Indianapolis International Airport,Indianapolis,IND,Boeing 737-900 Passenger,739,11:00,18:28:00,268,NZ 2729 /VA 8186
+2024-05-31,UA,1449,Nashville International,Nashville,BNA,Boeing 737-900 Passenger,739,11:00,17:35:00,275,NZ 9387 /VA 8254
+2024-05-31,UA,501,Denver International,Denver,DEN,Boeing 757-300 Passenger,753,11:05,14:52:00,167,AC 5252 /NZ 9051 /VA 8337
+2024-05-31,UA,1728,Dallas Fort Worth International,Dallas,DFW,Airbus A319,319,11:05,16:50:00,225,AC 5156 /NZ 9080 /VA 8273
+2024-05-31,UA,2166,General Edward Lawrence Logan International,Boston,BOS,Boeing 737MAX 9 Passenger,7M9,11:05,19:59:00,354,NZ 9015 /VA 8309
+2024-05-31,UA,2356,Louis Armstrong New Orleans International,New Orleans,MSY,Airbus A319,319,11:06,17:32:00,266,NZ 2159 /VA 8476
+2024-05-31,UA,487,Washington Dulles International,Dulles,IAD,Boeing 737MAX 8 Passenger,7M8,11:10,19:36:00,326,NZ 9167 /VA 8379
+2024-05-31,UA,2224,Gallatin Field,Belgrade,BZN,Airbus A320,320,11:10,14:30:00,140,NZ 9435
+2024-05-31,UA,5704,Ontario International Airport,Ontario,ONT,Embraer 175 (Enhanced Winglets),E7W,11:10,12:49:00,99,AC 4014
+2024-05-31,UA,35,Kansai International Airport,Osaka,KIX,Boeing 777,777,11:10,14:50:00,700,NH 7071
+2024-05-31,UA,29,Singapore Changi Airport,Singapore,SIN,Boeing 787-9,789,11:15,18:45:00,990,
+2024-05-31,UA,1881,Los Cabos International,San Jose Cabo,SJD,Boeing 737-800 Passenger,738,11:17,14:32:00,195,AC 3410
+2024-05-31,UA,1585,Licenciado Gustavo Diaz Ordaz International,Puerto Vallarta,PVR,Boeing 737-800 Passenger,738,11:19,16:04:00,225,AC 5495
+2024-05-31,UA,857,Shanghai Pudong International Airport,Shanghai,PVG,Boeing 777-300ER,77W,11:25,15:25:00,780,CA 7210
+2024-05-31,UA,2380,Honolulu International Airport,Honolulu,HNL,Boeing 777,777,11:25,13:53:00,328,AC 3506 /NZ 9145
+2024-05-31,UA,5806,Glacier Park Intl,Kalispell,FCA,Embraer 175 (Enhanced Winglets),E7W,11:40,15:18:00,158,
+2024-05-31,UA,1304,Seattle Tacoma International,Seattle,SEA,Boeing 737MAX 8 Passenger,7M8,12:09,14:26:00,137,NH 7326 /NZ 9402 /OZ 6401 /VA 8285
+2024-05-31,UA,837,Narita International Airport,Tokyo,NRT,Boeing 777-300ER,77W,12:10,14:50:00,640,NH 7013
+2024-05-31,UA,5725,Missoula Intl,Missoula,MSO,Embraer 175 (Enhanced Winglets),E7W,12:15,15:35:00,140,NZ 9085
+2024-05-31,UA,901,Heathrow,London,LHR,Boeing 787-9,789,12:30,06:55:00,625,AC 5448 /LH 9375 /LX 3069 /NZ 9830 /OS 7856 /SN 9105
+2024-05-31,UA,2378,Denver International,Denver,DEN,Boeing 777,777,12:55,16:40:00,165,AC 4049 /LX 3145 /NH 7310 /NZ 9056 /VA 8338
+2024-05-31,UA,2309,Portland International,Portland,PDX,Boeing 737MAX 8 Passenger,7M8,13:00,14:51:00,111,AC 3337 /NH 7312 /NZ 9349 /VA 8457
+2024-05-31,UA,2148,Chicago Ohare International,Chicago,ORD,Boeing 757-300 Passenger,753,13:10,19:40:00,270,AC 5384 /LH 7871 /NH 7242 /NZ 9305 /VA 8102
+2024-05-31,UA,1116,Austin-Bergstrom International Airport,Austin,AUS,Airbus A320,320,13:10,18:55:00,225,AC 3774 /NH 7332 /NZ 9137 /VA 8466
+2024-05-31,UA,305,Harry Reid International Airport,Las Vegas,LAS,Boeing 737-800 Passenger,738,13:10,14:57:00,107,AC 4078 /NH 7314 /NZ 9228 /OZ 6338 /VA 8120
+2024-05-31,UA,1738,Washington Dulles International,Dulles,IAD,Boeing 787-8,788,13:10,21:14:00,304,NZ 9166 /VA 8380
+2024-05-31,UA,1665,General Edward Lawrence Logan International,Boston,BOS,Boeing 737MAX 9 Passenger,7M9,23:25,08:17:00,352,NZ 9018 /VA 8306
+2024-05-31,UA,60,Melbourne International,Melbourne,MEL,Boeing 787-9,789,23:25,08:15:00,950,VA 8002
+2024-05-31,UA,1145,Cancun International Airport,Cancun,CUN,Boeing 737-900 Passenger,739,23:25,06:48:00,323,
+2024-05-31,UA,96,Brisbane International,Brisbane,BNE,Boeing 787-9,789,23:30,06:30:00,840,AV 2017 /VA 8506
+2024-05-31,UA,476,Chicago Ohare International,Chicago,ORD,Boeing 777,777,23:34,05:47:00,253,AC 4372 /NZ 9307 /VA 8101
+2024-05-31,UA,549,Newark Liberty International,New York,EWR,Boeing 757-200 Passenger,752,23:40,08:15:00,335,NZ 9115 /TP 8497 /VA 8563
+2024-05-31,UA,853,Taoyuan International Airport,Taipei,TPE,Boeing 777,777,23:45,04:05:00,800,
+2024-05-31,UA,877,Hong Kong International Airport,Hong Kong,HKG,Boeing 777-300ER,77W,23:50,05:00:00,850,
+2024-05-31,UA,805,Incheon Intl,Seoul,ICN,Boeing 777,777,23:55,04:20:00,745,OZ 6621
+2024-05-31,UA,505,George Bush Intcntl Houston,Houston,IAH,Boeing 777,777,23:59,05:54:00,235,NZ 9194 /VA 8081
+2024-05-31,UA,270,Philadelphia International Airport,Philadelphia,PHL,Boeing 737MAX 8 Passenger,7M8,23:59,08:33:00,334,NZ 9360 /VA 8450
