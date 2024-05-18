@@ -13,6 +13,8 @@ prophet = "^1.1.5"
 selenium = "^4.21.0"
 playwright = "^1.44.0"
 google-api-python-client = "^2.129.0"
+scikit-learn = "^1.4.2"
+imblearn = "^0.0"
 
 
 [build-system]
